@@ -103,6 +103,6 @@ def CSV_handler(csv_path, subj_path):
 # It's as if the interpreter inserts this at the top
 # of your module when run as the main program.
 if __name__ == "__main__":
-    csv_f = Path(r"C:\Users\rafae\Documents\GitHub\CFS\AEGEAN.csv")
-    subject_d = r"C:\Users\rafae\OneDrive\Aegean\Lessons"
+    csv_f = Path(r"C:\Users\Ioannis\Desktop\GitHub\CFS\AEGEAN.csv")
+    subject_d = r"C:\Users\Ioannis\Desktop\GitHub\CFS\AEGEAN"
     CSV_handler(csv_f, subject_d)

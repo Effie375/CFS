@@ -38,5 +38,5 @@ def plot(path):
 # It's as if the interpreter inserts this at the top
 # of your module when run as the main program.
 if __name__ == "__main__":
-    csv_file = Path(r"C:\Users\rafae\Documents\GitHub\CFS\AEGEAN.csv")
+    csv_file = Path(r"C:\Users\Ioannis\Desktop\GitHub\CFS\AEGEAN.csv")
     plot(csv_file)
